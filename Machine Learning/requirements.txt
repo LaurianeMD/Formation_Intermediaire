@@ -16,3 +16,4 @@ keras<3.0.0
 tensorflow
 #fancyimpute>=0.7.0
 missingno
+numpy
